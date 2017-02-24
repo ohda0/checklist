@@ -5,3 +5,5 @@ open browser console
 		body.appendChild(content);
 		
 and print		
+
+- (test)[fb://profile]
